@@ -7237,7 +7237,7 @@
                             text: "UptimeRobot"
                         })
                         , " 接口制作，检测频率 5 分钟")
-                    , o.a.createElement("p", null, "Copyright © XiaMoHuaHuo_CM"
+                    , o.a.createElement("p", null, "Copyright © XiaMoHuaHuo_CN"
                         //     , o.a.createElement(l, {
                         //     to: "https://status.org.cn/",
                         //     text: "STATUS.ORG.CN"
