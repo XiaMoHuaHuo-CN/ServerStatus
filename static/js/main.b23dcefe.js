@@ -7231,7 +7231,7 @@
         s = function () {
             return o.a.createElement("div", {id: "footer"}
                 , o.a.createElement("div", {className: "container"}
-                    , o.a.createElement("p", null, "Powered "
+                    , o.a.createElement("p", null, "Powered by "
                         , o.a.createElement(l, {
                             to: "https://uptimerobot.com/",
                             text: "UptimeRobot"
